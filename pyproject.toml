@@ -8,6 +8,7 @@ packages = [{include = "ylab_python_example"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pandas = "^1.5.2"
 
 
 [tool.poetry.group.dev.dependencies]
